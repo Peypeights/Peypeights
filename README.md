@@ -3,7 +3,13 @@ I love creating a fun coding projects, learning new languages, and love engaging
 <br>
 <br>
 💻 Languages & Tools  
-- Python | HTML | CSS | JavaScript | C++  
+- Python | HTML | CSS | JavaScript | C++
+<br>
+<br>
+📒 Hobbies
+- Gaming
+- Collecting Fragrances
+- Sleeping & Eating
   
 ### 📫 How to Reach Me  
 Email: yahjlapid6@gmail.com  
