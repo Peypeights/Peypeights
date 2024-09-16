@@ -3,7 +3,8 @@ I love creating a fun coding projects, learning new languages, and love engaging
 <br>
 <br>
 💻 Languages & Tools  
-- Python | HTML | CSS | JavaScript | C++
+- Python | HTML | CSS | JavaScript | C++<br>
+- Visual Studio Code | Codespace
 <br>
 <br>
 📒 Hobbies<br>
