@@ -6,7 +6,6 @@ I love creating a fun coding projects, learning new languages, and love engaging
 - Python | HTML | CSS | JavaScript | C++<br>
 - Visual Studio Code | Codespace
 <br>
-<br>
 📒 Hobbies<br>
 - Gaming<br>
 - Collecting Fragrances<br>
