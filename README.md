@@ -1,4 +1,5 @@
 ### Hello, I'm Yahj 👋  
+## A first year Computer Science student
 I love creating a fun coding projects, learning new languages, and love engaging myself in the tech community  
 <br>
 <br>
