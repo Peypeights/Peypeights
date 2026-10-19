@@ -46,7 +46,7 @@ I learn best by building things, experimenting, and figuring stuff out along the
 
 ### 🕹️ Things I've built
 
-**💼 HireLink | Job Fair Management System**  
+**💼 [HireLink](https://github.com/Peypeights/hirelink-job-fair-management-system) | Job Fair Management System**  
 A team-built job fair platform that connects applicants and companies. Applicants can discover and apply for jobs, while company representatives, staff, and administrators have their own tools for managing postings, applications, and platform activity.
 
 **🏨 [HotelEase](https://github.com/Peypeights/HotelEase) | Hotel Booking System**  
