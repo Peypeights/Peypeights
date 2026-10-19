@@ -56,7 +56,7 @@ A team project for hotel booking and management, built with Java and JavaFX.
 
 ### 🎮 Side quests
 
-- 🎮 **Gaming:** Currently into *Monster Hunter: World*.
+- 🎮 **Gaming:** Love playing games such as *Honkai: Star Rail*, *Valheim*, *Ready or Not*.
 - 🎹 **Piano:** Learning pieces like Chopin's *Waltz in A minor*.
 - 🧴 **Fragrances:** I enjoy discovering scents and collecting perfumes.
 - 💡 **Random ideas:** Always coming up with something new to build.
