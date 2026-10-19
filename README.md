@@ -23,7 +23,7 @@ I learn best by building things, experimenting, and figuring stuff out along the
 - 🚀 Exploring **hackathons**, tech events, and new ideas
 - 💡 Turning interesting concepts into working projects
 
-### 🧰 My inventory
+### 🧰 My-Go-To Tech
 
 **Languages & web stuff**
 
@@ -32,10 +32,7 @@ I learn best by building things, experimenting, and figuring stuff out along the
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Currently learning**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Basic React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Tools I use**
 
