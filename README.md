@@ -1,11 +1,11 @@
 # Hello, I'm Yahj 👋  
-### A second year Computer Science student
+### A third year Computer Science student
 <hr>
 I love creating a fun coding projects, learning new languages, and love engaging myself in the tech community  
 <br>
 <br>
 💻 Languages & Tools  
-- Python | HTML | CSS | JavaScript | C++<br>
+- Python | HTML | CSS | JavaScript | Basic React | C++<br>
 - Visual Studio Code | Codespace
 <br>
 📒 Hobbies<br>
