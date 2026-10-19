@@ -12,14 +12,13 @@
 
 ### 👾 A little about me
 
-I'm a third-year **Computer Science student from the Philippines 🇵🇭** who enjoys bringing ideas to life through code. I like working on projects with friends, trying out new technologies, and getting involved in the tech community.
+I'm a third-year **Computer Science student at Mapúa University in the Philippines 🇵🇭** who enjoys bringing ideas to life through code. I like working on projects with friends, trying out new technologies, and getting involved in the tech community.
 
 I learn best by building things, experimenting, and figuring stuff out along the way.
 
-### 🎯 Current quests
+### 🎯 Currently
 
 - 🛠️ Building and improving projects with friends
-- 🎧 Into tech gears and accessories, especially headphones/iems, monitors, gaming mice, and custom keyboards.
 - 🚀 Exploring **hackathons**, tech events, and new ideas
 - 💡 Turning interesting concepts into working projects
 
@@ -51,9 +50,10 @@ A team project for hotel booking and management, built with Java and JavaFX.
 
 *You can find more projects in my [repositories](https://github.com/Peypeights?tab=repositories).*
 
-### 🎮 Side quests
+### 🎮 Hobbies
 
 - 🎮 **Gaming:** Love playing games such as *Honkai: Star Rail*, *Valheim*, *Ready or Not*.
+- 🎧 **Tech & Gear:** Into tech gears and accessories, especially headphones/iems, monitors, gaming mice, and custom keyboards.
 - 🎹 **Piano:** Learning pieces like Chopin's *Waltz in A minor*.
 - 🧴 **Fragrances:** I enjoy discovering scents and collecting perfumes.
 - 💡 **Random ideas:** Always coming up with something new to build.
