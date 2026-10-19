@@ -19,7 +19,7 @@ I learn best by building things, experimenting, and figuring stuff out along the
 ### 🎯 Current quests
 
 - 🛠️ Building and improving projects with friends
-- 🌱 Learning more about **React** and web development
+- 🎧 Into tech gears and accessories, especially headphones/iems, monitors, gaming mice, and custom keyboards.
 - 🚀 Exploring **hackathons**, tech events, and new ideas
 - 💡 Turning interesting concepts into working projects
 
@@ -28,10 +28,10 @@ I learn best by building things, experimenting, and figuring stuff out along the
 **Languages & web stuff**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Basic React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Tools I use**
